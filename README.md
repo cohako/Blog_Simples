@@ -12,3 +12,11 @@ e recriar o manifesto.
 
 Rails oferece uma vasta gama de facilidades para o programador, é uma linguagem de fácil aprendizado(até agora)
 24/02/2021
+
+Hoje foi um dia mais rápido de aprendizado, consegui terminar o mini projeto!
+
+Acredito que vi bastante conteudo, mas ainda preciso assimilar mais
+
+irei testar outros projetos!
+
+Terminado em 25/02/2021
