@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+É o primeiro projeto um pouco mais complexo que faço em rails.
+Estou seguindo todas as instruções do getting started, que é bem didático.
+Logo ao criar o projeto já tive grandes problemas, acontece que minha versão do 
+yarn havia atualizado e o webpacker não possuia compatibilidade com a nova.
+Depois de ler todos os logs e testar alguns códigos, acabei chegando a resolução.
 
-Things you may want to cover:
+RESOLUÇÃO: Rodar o comando para downgrade no yarn, utilizando a versão 1.22.x
+rodar comando bundle exec rake webpacker:install para o mesmo ser reinstalado
+e recriar o manifesto.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails oferece uma vasta gama de facilidades para o programador, é uma linguagem de fácil aprendizado(até agora)
+24/02/2021
